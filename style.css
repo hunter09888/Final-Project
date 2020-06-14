@@ -1,0 +1,35 @@
+#idCard {
+    background-color: #eec4cb;
+}
+
+body {
+    background-color: #61a4bb;
+    text-align: center;
+}
+
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+
+#idCard {
+    border: 5px solid black;
+    height: 14em;
+    width: 25em;
+    border-radius: 2em;
+    margin: 4em auto;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+#postFullName {
+    font-size: 1.7em;
+    text-align: center;
+    margin: auto;
+    padding: 1.25em 1em .75em 1em;
+}
+
+.contactInfo {
+    margin-left: .25em;
+}
